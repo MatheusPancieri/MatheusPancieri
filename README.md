@@ -24,7 +24,7 @@
 
 - 👾 I've keen interest in automation RPA. So,I'm learning **Python**
 
-- 📫 Feel free to reach me out ****
+- 📫 Feel free to reach me out **matheuspancieri@outlook.com**
 <!--Intro end-->
 
 <!--- stats (start) -->
