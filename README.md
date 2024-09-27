@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Fullstack Developer .NET**
 
-- 👾 I've keen interest in automation RPA. So,I'm learning **Python**
+- 👾 I have an interest in automation and RPA, so I'm learning **Python**.
 
 - 📫 Feel free to reach me out **matheuspancieri@outlook.com**
 <!--Intro end-->
