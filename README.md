@@ -1,3 +1,15 @@
+<!-- Importar a fonte IBM Plex Mono do Google Fonts -->
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'IBM Plex Mono', monospace;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'IBM Plex Mono', monospace;
+    }
+  </style>
+</head>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -15,7 +27,6 @@
     <summary><h2 style="display: inline-block"></h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Python RPA, Backend .NET**
@@ -39,7 +50,6 @@
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -53,7 +63,6 @@
 <a href="https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
   
@@ -61,9 +70,7 @@
   
 </div>
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **MatheusPancieri/MatheusPancieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
