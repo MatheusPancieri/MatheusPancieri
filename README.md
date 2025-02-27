@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Matheus Pancieri</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Matheus Pancieri</h1></summary>
   </ul>
 </div>
 
@@ -17,13 +17,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python RPA, Backend .NET**
+- I’m currently working on **Python RPA, Backend .NET**
 
-- 🌱 I’m currently learning **Fullstack Developer .NET**
+- I’m currently learning **Fullstack Developer | .NET | UI/UX Desing**
 
-- 👾 I’m really into SaaS and just enjoy building stuff
-
-- 📫 Feel free to reach me out **matheuspancieri@outlook.com**
+- **matheuspancieri@outlook.com**
 <!--Intro end-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
