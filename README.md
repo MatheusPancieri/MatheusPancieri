@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- I’m currently working on **Python RPA, Backend .NET**
+- I’m currently working on **Python RPA, Backend .NET, JavaScrip**
 
 - I’m currently learning **Fullstack Developer | .NET | UI/UX Desing**
 
