@@ -12,12 +12,70 @@
 </ul>
 
 <!-- Technologies -->
-<h2 style="display: inline-block;">Technologies</h2>
+<!-- Linguagens de Programação -->
+<h2>Linguagens de Programação</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,py,dotnet,css,html,figma,discord,docker,postgres,github,git,rider,visualstudio,vscode,postman,ae&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,py" alt="Linguagens de Programação" />
   </a>
 </p>
+
+<!-- Plataformas e Frameworks -->
+<h2>Plataformas e Frameworks</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="Plataformas e Frameworks" />
+  </a>
+</p>
+
+<!-- Desenvolvimento Web -->
+<h2>Desenvolvimento Web</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Desenvolvimento Web" />
+  </a>
+</p>
+
+<!-- Ferramentas de Design -->
+<h2>Ferramentas de Design</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ae" alt="Ferramentas de Design" />
+  </a>
+</p>
+
+<!-- IDEs e Ferramentas de Desenvolvimento -->
+<h2>IDEs e Ferramentas de Desenvolvimento</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" alt="IDEs e Ferramentas de Desenvolvimento" />
+  </a>
+</p>
+
+<!-- Controle de Versão e Colaboração -->
+<h2>Controle de Versão e Colaboração</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git" alt="Controle de Versão e Colaboração" />
+  </a>
+</p>
+
+<!-- DevOps e Banco de Dados -->
+<h2>DevOps e Banco de Dados</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postgres" alt="DevOps e Banco de Dados" />
+  </a>
+</p>
+
+<!-- Outros -->
+<h2>Outros</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,postman" alt="Outros" />
+  </a>
+</p>
+
 
 <!-- Contact -->
 <h2 style="display: inline-block;">Contact</h2>
