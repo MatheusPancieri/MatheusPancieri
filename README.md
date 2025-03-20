@@ -13,75 +13,73 @@
 
 <!-- Technologies -->
 <!-- Linguagens de Programação -->
-<h2>Linguagens de Programação</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,py" alt="Linguagens de Programação" />
-  </a>
-</p>
+---
 
-<!-- Plataformas e Frameworks -->
-<h2>Plataformas e Frameworks</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="Plataformas e Frameworks" />
-  </a>
-</p>
+### 📌 Linguagens de Programação
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Desenvolvimento Web -->
-<h2>Desenvolvimento Web</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Desenvolvimento Web" />
-  </a>
-</p>
+---
 
-<!-- Ferramentas de Design -->
-<h2>Ferramentas de Design</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ae" alt="Ferramentas de Design" />
-  </a>
-</p>
+### 🚀 Plataformas e Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- IDEs e Ferramentas de Desenvolvimento -->
-<h2>IDEs e Ferramentas de Desenvolvimento</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" alt="IDEs e Ferramentas de Desenvolvimento" />
-  </a>
-</p>
+---
 
-<!-- Controle de Versão e Colaboração -->
-<h2>Controle de Versão e Colaboração</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git" alt="Controle de Versão e Colaboração" />
-  </a>
-</p>
+### 🌐 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- DevOps e Banco de Dados -->
-<h2>DevOps e Banco de Dados</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postgres" alt="DevOps e Banco de Dados" />
-  </a>
-</p>
+---
 
-<!-- Outros -->
-<h2>Outros</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,postman" alt="Outros" />
-  </a>
-</p>
+### 🎨 Ferramentas de Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+---
+
+### 🛠️ IDEs e Ferramentas de Desenvolvimento
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 🔄 Controle de Versão e Colaboração
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🖥️ DevOps e Banco de Dados
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+---
+
+### 🔧 Outros
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+---
+
+Se precisar de mais alguma personalização, me avise! 🚀
 
 
 <!-- Contact -->
 <h2 style="display: inline-block;">Contact</h2>
 <p>
   <a href="https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
 </p>
 
