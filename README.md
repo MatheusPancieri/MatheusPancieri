@@ -70,18 +70,12 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
----
-
-Se precisar de mais alguma personalização, me avise! 🚀
-
 
 <!-- Contact -->
-<h2 style="display: inline-block;">Contact</h2>
-<p>
-  <a href="https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275" target="_blank">
-     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-</p>
+### 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275)
+
+
 
 <!-- Profile Visit Count -->
 <div align="center">
