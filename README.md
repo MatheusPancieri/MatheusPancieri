@@ -1,19 +1,17 @@
-Aqui está uma versão mais organizada do seu **README**, mantendo todas as tecnologias dentro de um único bloco, mas ainda assim visualmente separadas e fáceis de ler.
-
 ---
 
-# 👨‍💻 Matheus Pancieri
+# Matheus Pancieri
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
-### 💡 Sobre Mim  
+### Sobre Mim  
 - 💼 Atualmente trabalho com **Python RPA, Backend .NET e JavaScript**  
 - 📚 Estudando **Fullstack Development | .NET | UI/UX Design**  
 - 📧 Contato: **matheuspancieri@outlook.com**  
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas  
 
 ### 🔹 Linguagens de Programação  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
