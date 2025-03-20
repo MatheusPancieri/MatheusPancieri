@@ -74,12 +74,3 @@
 <!-- Contact -->
 ### 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275)
-
-
-
-<!-- Profile Visit Count -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=MatheusPancieri&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
-<!-- Horiz
