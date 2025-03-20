@@ -7,10 +7,9 @@
 ### Sobre Mim  
 - 💼 Atualmente trabalho com **Python RPA, Backend .NET e JavaScript**  
 - 📚 Estudando **Fullstack Development | .NET | UI/UX Design**  
-- 📧 Contato: **matheuspancieri@outlook.com**  
+- 📧 Contato: **matheuspancieri@outlook.com**
 
----
-
+  
 ## Tecnologias e Ferramentas  
 
 ### 🔹 Linguagens de Programação  
@@ -57,8 +56,5 @@
 ## 📬 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-pancieri-preza-da-silva-159923275)  
 
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-
----
