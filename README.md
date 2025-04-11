@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 ### Sobre Mim  
-- 💼 Atualmente trabalho com **Python RPA, Backend .NET e JavaScript**  
+- 💼 Atualmente trabalho com **JavaScript, JQuery e Backend .NET **  
 - 📚 Estudando **Fullstack Development | .NET | UI/UX Design**  
 - 📧 Contato: **matheuspancieri@outlook.com**
 
@@ -46,7 +46,6 @@
 ### 🔹 Design e Outros  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
